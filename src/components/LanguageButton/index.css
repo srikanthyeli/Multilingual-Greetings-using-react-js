@@ -1,0 +1,16 @@
+.button {
+  color: #db1c48;
+  background-color: transparent;
+  border-color: #db1c48;
+  border-radius: 25px;
+  height: 20px;
+  width: 100px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
+.activeBtn {
+  background-color: #db1c48;
+  color: white;
+}
